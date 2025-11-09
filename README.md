@@ -161,12 +161,6 @@ and a captivating storyline that kept me engaged from start to finish."
 and poor direction that made it feel like a waste of time."
 ```
 
-**Neutral**:
-```
-"The movie had decent performances and an average plot that was neither 
-particularly exciting nor disappointing, just a standard film experience."
-```
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
